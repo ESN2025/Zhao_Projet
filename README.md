@@ -27,6 +27,7 @@ Dans un premier temps, j’ai développé les fonctions principales nécessaires
 ![alt text](image/lab2.PNG)  
 
 ## Résultats
+https://github.com/user-attachments/assets/81f36d26-1ef1-4b58-be3d-ca3ed8f2fbcd
 
 ## Conclusion
 Ce projet a permis de maîtriser la communication I2C entre un FPGA et un capteur externe, ainsi que le traitement et l’affichage des données en temps réel. Les différentes étapes ont été validées grâce à un affichage dans le terminal et sur des afficheurs 7 segments, garantissant le bon fonctionnement de l’ensemble du système. De plus, il m’a permis d’acquérir une compréhension plus approfondie des mécanismes d’interruption et de l’utilisation des timers dans un système embarqué.
